@@ -1,0 +1,2 @@
+rootProject.name = "OpenCV_FaceDect"
+include ':app'
