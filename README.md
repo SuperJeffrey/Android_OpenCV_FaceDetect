@@ -1,3 +1,3 @@
 android opencv facedetect
 
-依赖aar包快速实现人脸检测的集成
+通过依赖封装的aar包快速集成OpenCV实现人脸检测功能
